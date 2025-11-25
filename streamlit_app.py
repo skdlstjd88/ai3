@@ -77,7 +77,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     labels[0] : {"texts" : ["중국식 냉면은 맛있어"], "images" : ["https://www.unileverfoodsolutions.co.kr/dam/global-ufs/mcos/south-korea/calcmenu/recipes/kr-recipes/chinese/header/%EC%A4%91%EA%B5%AD%EB%83%89%EB%A9%B4-chinese-cold-noodles-header-1260x709px.jpg"]},
     labels[1] : {"texts" : ["짜장면은 맛있어"], "images" : ["https://image.8dogam.com/resized/product/asset/v1/upload/6833c73eae0949eb8bcbed560c903198.jpeg?type=big&res=3x&ext=jpg"]},
     labels[2] : {"texts" : ["짬뽕은 맛있어"], "images" : ["https://www.chosun.com/resizer/v2/YPSL2DAN5VDJ5C3HNXWHKJGCRU.jpg?auth=d98ca02f38dff609ee5b3bee78894f70a11a2b0e7d232c84581ebb04140eeb76&width=616"]},
-    labels[3] : {"texts" : ["탕수육은 맛있어"], "images" : ["https://blog.kakaocdn.net/dna/qnIz2/btqSdtiK7C4/AAAAAAAAAAAAAAAAAAAAAK_eDgChgNlbA3DwDL3Rhp3zyE68j5YgxkTq4Zz6RRN5/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1764514799&allow_ip=&allow_referer=&signature=IgQS1EsJodJN9xYMyJB6awE7Ae8%3D]},
+    labels[3] : {"texts" : ["탕수육은 맛있어"], "images" : ["https://shop.hansalim.or.kr/shopping/is/itm/060306001/060306001_1_568.jpg"]},
 
 }
 
